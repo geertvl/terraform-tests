@@ -1,0 +1,6 @@
+resource_group_name = "example-resource-group"
+location            = "West Europe"
+client_id           = "c12cbdb8-a5f4-4439-8260-574e20a5881e"
+client_secret       = "HPb8Q~G-NmNFNxRgJmx2ETe5Z-0EualCoAJx_b0h"
+subscription_id     = "187725aa-681a-477e-a34c-a4375dc52621"
+tenant_id           = "d018aec4-2b2b-4c66-9939-2c96877e6bf1"
